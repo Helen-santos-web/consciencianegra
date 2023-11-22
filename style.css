@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+@font-face{
+  font-family: font1;
+  src: url(/Norse.otf);
+}
+
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    background: #e7dc3e;
+    background: linear-gradient(90deg, #adaf2c 11%, #ffee03da ,  #adaf2c 84%);
+}
+
+p{
+    text-align: justify;
+    margin: 10px;
+    text-align: center;
+    color: black;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+}
+
+article{
+    text-align: center;
+}
+
+h1{
+   
+ font-family: font1;
+}
